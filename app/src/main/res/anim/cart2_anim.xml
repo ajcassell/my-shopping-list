@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:fillBefore="true">
+    <!-- this makes the animation stay where it ended -->
+
+    <translate
+        android:toXDelta="-1500"
+        android:fromXDelta="3000"
+        android:duration="3000"/>
+
+</set>
